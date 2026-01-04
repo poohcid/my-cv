@@ -68,7 +68,7 @@ real estate, rental platforms, and hospital information systems.
 **ICON Framework** — Bangkok, Thailand  
 *Mar 2024 – Present*
 
-#### Online Payment & After-Sales Service Platform  
+**Project Title:**  Online Payment & After-Sales Service Platform  
 **Tech Stack:** React, Node.js, SQL Server, Nginx, PM2, LINE Developer Platform  
 
 - Developed an online payment platform supporting **QR Payment, Credit Card, and Mobile Banking**
@@ -85,7 +85,7 @@ real estate, rental platforms, and hospital information systems.
 
 <div style="page-break-after: always;"></div>
 
-#### FastInspect – Property Inspection Management System  
+**Project Title:**  FastInspect – Property Inspection Management System  
 **Tech Stack:** Go (Gin), PHP (Laravel), MySQL, Kubernetes (Traefik Ingress)
 
 - Developed a system for tracking and reporting property inspection data from field staff
@@ -99,7 +99,7 @@ real estate, rental platforms, and hospital information systems.
 - Improved system availability through **Kubernetes-based deployments**
 - Learned Go programming language and applied best practices for clean architecture design
 
-#### Agent Hub Platform  
+**Project Title:** Agent Hub Platform  
 **Tech Stack:** Next.js, Node.js, SQL Server, Kubernetes (Traefik Ingress)
 
 - Developed an online property booking platform for real estate agents
@@ -118,19 +118,19 @@ real estate, rental platforms, and hospital information systems.
 **PANACEA PLUS** — Thailand  
 *Aug 2022 – Feb 2024*
 
+**Project Title:** Hospital Information System (HIS) <br/>
 **Tech Stack:** React, .NET Core, SQL Server
+
+- Developed UI for **Patient Eligibility Verification**
+- Built frontend features for **Outpatient Clinic Management**
+- Implemented UI for **Document Scanning Systems**
+- Integrated frontend components with backend APIs
 
 **Key Achievements**
 - Delivered frontend modules used in **daily hospital operations**
 - Improved usability and workflow efficiency for hospital staff
 - Collaborated closely with backend teams to integrate complex business logic
 - Contributed to stable production releases in a healthcare environment
-
-#### Hospital Information System (HIS)
-- Developed UI for **Patient Eligibility Verification**
-- Built frontend features for **Outpatient Clinic Management**
-- Implemented UI for **Document Scanning Systems**
-- Integrated frontend components with backend APIs
 
 <div style="page-break-after: always;"></div>
 
@@ -150,7 +150,7 @@ Relevant Coursework:
 - Web Programming
 - Cloud-based System
 
-#### Senior Project
+### Senior Project
 **Project Title:** Resource Management System using AWS  
 **Tech Stack:** Next.js, Node.js, GraphQL, MongoDB, AWS (Lambda, IAM, Event-driven Architecture), AWS SDK  
 
