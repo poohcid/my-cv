@@ -1,4 +1,12 @@
-# PHUCHID RUGRAWI
+<style>
+  .profile-img {
+    width: 100px;
+    height: 120px;
+    object-fit: contain;
+  }
+</style>
+
+# <img src="profile.png" class="profile-img" alt="Profile Photo"> PHUCHID RUGRAWI
 **Backend / Full Stack Engineer (Systems-Focused)**  
 
 📞 +66 85-260-2815  
